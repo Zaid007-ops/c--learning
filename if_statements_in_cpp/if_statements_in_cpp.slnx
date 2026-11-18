@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="if_statements_in_cpp/if_statements_in_cpp.vcxproj" />
+</Solution>

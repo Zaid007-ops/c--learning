@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="console_calculator_program_in_cpp/console_calculator_program_in_cpp.vcxproj" />
+</Solution>

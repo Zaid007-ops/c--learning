@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="logical_operators_in_cpp/logical_operators_in_cpp.vcxproj" />
+</Solution>

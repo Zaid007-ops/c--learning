@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="temp_conversion_program_in_cpp/temp_conversion_program_in_cpp.vcxproj" />
+</Solution>

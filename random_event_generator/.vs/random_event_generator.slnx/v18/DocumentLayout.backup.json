@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaidm\\source\\repos\\random_event_generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52ABA761-45BB-4902-AD8F-D25A3B324D96}|random_event_generator\\random_event_generator.vcxproj|C:\\Users\\zaidm\\source\\repos\\random_event_generator\\random_event_generator\\random_event_generator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52ABA761-45BB-4902-AD8F-D25A3B324D96}|random_event_generator\\random_event_generator.vcxproj|solutionrelative:random_event_generator\\random_event_generator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "random_event_generator.cpp",
+              "DocumentMoniker": "C:\\Users\\zaidm\\source\\repos\\random_event_generator\\random_event_generator\\random_event_generator.cpp",
+              "RelativeDocumentMoniker": "random_event_generator\\random_event_generator.cpp",
+              "ToolTip": "C:\\Users\\zaidm\\source\\repos\\random_event_generator\\random_event_generator\\random_event_generator.cpp*",
+              "RelativeToolTip": "random_event_generator\\random_event_generator.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-30T17:18:31.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

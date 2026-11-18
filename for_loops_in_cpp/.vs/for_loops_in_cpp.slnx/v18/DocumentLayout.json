@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaidm\\source\\repos\\for_loops_in_cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36046A98-BDF6-4560-B9E5-9F40E2F3E82A}|for_loops_in_cpp\\for_loops_in_cpp.vcxproj|C:\\Users\\zaidm\\source\\repos\\for_loops_in_cpp\\for_loops_in_cpp\\for_loops_in_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36046A98-BDF6-4560-B9E5-9F40E2F3E82A}|for_loops_in_cpp\\for_loops_in_cpp.vcxproj|solutionrelative:for_loops_in_cpp\\for_loops_in_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for_loops_in_cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\zaidm\\source\\repos\\for_loops_in_cpp\\for_loops_in_cpp\\for_loops_in_cpp.cpp",
+              "RelativeDocumentMoniker": "for_loops_in_cpp\\for_loops_in_cpp.cpp",
+              "ToolTip": "C:\\Users\\zaidm\\source\\repos\\for_loops_in_cpp\\for_loops_in_cpp\\for_loops_in_cpp.cpp",
+              "RelativeToolTip": "for_loops_in_cpp\\for_loops_in_cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-30T16:46:19.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
